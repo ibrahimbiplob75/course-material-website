@@ -1,14 +1,14 @@
 # React + Vite
 
-####"Course Enrollment System"
+<h1>Course Enrollment System"</h1>
 <hr>
 <br>
 
-###Feature 1: Course Selection
+<h3>Feature 1: Course Selection</h3>
 
-###Feature 2: Prevent Duplicate Enrollment  
+<h3>Feature 2: Prevent Duplicate Enrollment </h3> 
 
-###Feature 3: Course Display and Summary
+<h3>Feature 3: Course Display and Summary</h3>
 
 
 
